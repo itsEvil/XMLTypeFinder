@@ -6,8 +6,6 @@ A small program to find unused types
 .NET 6/7/8 Runtime/SDK
 Any C# Editor (VS/Rider)
 
-### How do I use it?
-
 ### Info
 It was built using .NET 8 and tested it on .NET 6/7 and it worked. 
 Change the project to your version of .NET (Default on .NET 8)
