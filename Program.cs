@@ -8,7 +8,7 @@ namespace XMLTypeFinder
     {
         private static Dictionary<ushort, ItemDesc> Type2Item = new Dictionary<ushort, ItemDesc>(); 
 
-        static void Main(string[] args) //KURWA MAIN FUNCTION
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
             ParseXMLs();
