@@ -1,0 +1,83 @@
+<Objects>
+	<Object type="0x7656" id="Stubby Ring of Strength">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>16lofiObj</File>
+			<Index>0x03</Index>
+		</Texture>
+		<SlotType>23</SlotType>
+		<Rarity>Common</Rarity>
+		<Description>A short amethyst gem fitten snugly into a silver band.</Description>
+		<ActivateOnEquip stat="2" amount="8">IncrementStat</ActivateOnEquip>
+		<BagType>1</BagType>
+	</Object>	
+	<Object type="0x765a" id="Stubby Ring of Dexterity">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>16lofiObj</File>
+			<Index>0x04</Index>
+		</Texture>
+		<SlotType>23</SlotType>
+		<Rarity>Common</Rarity> 
+		<Description>A short topaz gem fitten snugly into a silver band.</Description>
+		<ActivateOnEquip stat="5" amount="8">IncrementStat</ActivateOnEquip>
+		<BagType>1</BagType>
+	</Object>	
+	<Object type="0x765b" id="Stubby Ring of Agility">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>16lofiObj</File>
+			<Index>0x05</Index>
+		</Texture>
+		<SlotType>23</SlotType>
+		<Rarity>Common</Rarity> <!-- Common, Legendary, Godly, Ancient, Raid -->
+		<Description>A short emerald gem fitten snugly into a silver band.</Description>
+		<ActivateOnEquip stat="4" amount="8">IncrementStat</ActivateOnEquip>
+		<BagType>1</BagType>
+	</Object>
+	<Object type="0x5668" id="Ring of Strength">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>16lofiObj</File>
+			<Index>0x00</Index>
+		</Texture>
+		<SlotType>23</SlotType>
+		<Rarity>Common</Rarity>
+		<!-- Common, Legendary, Godly, Ancient, Raid -->
+		<Description>A short emerald gem fitten snugly into a silver band.</Description>
+		<ActivateOnEquip stat="4" amount="16">IncrementStat</ActivateOnEquip>
+		<BagType>1</BagType>
+	</Object>
+	<Object type="0x5669" id="Ring of Dexterity">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>16lofiObj</File>
+			<Index>0x01</Index>
+		</Texture>
+		<SlotType>23</SlotType>
+		<Rarity>Common</Rarity>
+		<!-- Common, Legendary, Godly, Ancient, Raid -->
+		<Description>A short emerald gem fitten snugly into a silver band.</Description>
+		<ActivateOnEquip stat="4" amount="16">IncrementStat</ActivateOnEquip>
+		<BagType>1</BagType>
+	</Object>
+	<Object type="0x566a" id="Ring of Agility">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>16lofiObj</File>
+			<Index>0x02</Index>
+		</Texture>
+		<SlotType>23</SlotType>
+		<Rarity>Common</Rarity>
+		<!-- Common, Legendary, Godly, Ancient, Raid -->
+		<Description>A short emerald gem fitten snugly into a silver band.</Description>
+		<ActivateOnEquip stat="4" amount="16">IncrementStat</ActivateOnEquip>
+		<BagType>1</BagType>
+	</Object>
+</Objects>
